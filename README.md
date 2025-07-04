@@ -32,4 +32,8 @@ Gender equity across salary ranges
 - Highest concentration of employees in Kaduna with highest salary payout.
 - Departments like Legal, Support and Product Mangement had the highest number of male employees.
 
+## Recommendations
+
+- Gender gap should be adressed in high salary bands and also see to get the appropriate gender of the undiclosed employees.
+- 
 
