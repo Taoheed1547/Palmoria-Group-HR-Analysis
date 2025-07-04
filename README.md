@@ -72,7 +72,7 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 
 ### Dataset and Dashboard
 
-Attached is the csv file of the dataset and the pbix file for better interactivity.
+Attached is the csv file of the dataset and the screenshot for better interactivity.
 
 [Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21068593/Palmoria.Group.emp-data.csv)
 
