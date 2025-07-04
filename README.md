@@ -61,7 +61,7 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 - Departments like Legal, Support and Product Mangement had the highest number of male employees.
 
 
-[Palmoria Group HR Dashboard.pdf](https://github.com/user-attachments/files/21067643/Palmoria.Group.HR.Dashboard.pdf)
+(https://github.com/user-attachments/files/21067643/Palmoria.Group.HR.Dashboard.pdf)
 
 
 ### Recommendations
