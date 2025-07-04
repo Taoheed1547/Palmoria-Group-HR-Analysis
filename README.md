@@ -2,7 +2,6 @@
 
  This project providers a comprehensive analysis on Palmoria Employees built in PowerBI. It focuses on key metrics such as employee distribution by gender, department, salary band, location and performance rating.
 
-## Dashbaord
 
 ![image](https://github.com/user-attachments/assets/17d16c3f-9b50-42d6-8504-4465ff9a9891)
 
@@ -44,6 +43,10 @@ Total employees, gender balance, and undisclosed entries.
 
 ## Recommendations
 
-- Gender gap should be adressed in high salary bands and also see to get the appropriate gender of the undiclosed employees.
-- 
+- Gender gap should be adressed in high salary bands.
+- Ensure gender disclosure through transparent policies.
+- There should be investment in employees in terms of training and skill development since most of the employees falls under the average rating performance category.
+
+
+
 
