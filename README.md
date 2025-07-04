@@ -13,12 +13,23 @@ Gender equity across salary ranges
 
 ## Key KPIs
 
-Total Employees: 874
+- Total Employees: 874
 
-Male Employees: 430
+- Male Employees: 430
 
-Female Employees: 406
+- Female Employees: 406
 
-Undisclosed Gender: 38
+- Undisclosed Gender: 38
 
-Departments: 12
+- Departments: 12
+
+
+## Observations
+
+- Gender distribution is nearly balanced with 4.4% employees that do not disclosed their gender.
+- Salary distribution favours male employees in higher bands.
+- Most employees fall within the "Average" to "Good" performance range.
+- Highest concentration of employees in Kaduna with highest salary payout.
+- Departments like Legal, Support and Product Mangement had the highest number of male employees.
+
+
