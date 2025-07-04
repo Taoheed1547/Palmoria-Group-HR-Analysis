@@ -36,6 +36,7 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 - Duplicates Removal
 - Unpivoting columns
 - Merging Queries
+- Creating Relationships between tables
 
 ### Key KPIs
 
@@ -69,6 +70,9 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 - Ensure gender disclosure through transparent policies.
 - There should be investment in employees in terms of training and skill development since most of the employees falls under the average rating performance category.
 
+### Dataset and Dashboard
+
+Attached is the csv file for the dataset and the PowerBI dashboard for better interactivity.
 
 
 
