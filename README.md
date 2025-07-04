@@ -78,6 +78,14 @@ Attached is the csv file of the dataset and the pbix file for better interactivi
 
 [Palmoria Group Bonus Rules.csv](https://github.com/user-attachments/files/21068591/Palmoria.Group.Bonus.Rules.csv)
 
-![Palmoria 1](https://github.com/user-attachments/assets/287e0254-8bd7-4701-8c1c-241e6f491790)
+[Palmoria 1](https://github.com/user-attachments/assets/287e0254-8bd7-4701-8c1c-241e6f491790)
 
-![Palmoria 2](https://github.com/user-attachments/assets/bb0ec0ac-2ff1-46f5-a480-e9479ff673af)
+[Palmoria 2](https://github.com/user-attachments/assets/bb0ec0ac-2ff1-46f5-a480-e9479ff673af)
+
+
+### Author
+Taoheed A. Salawu
+
+Data Analyst
+
+[LinkedIn](www.linkedin.com/in/taoheed-a-salawu-b2ab42187)
