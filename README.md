@@ -60,7 +60,17 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 - Highest concentration of employees in Kaduna with highest salary payout.
 - Departments like Legal, Support and Product Mangement had the highest number of male employees.
 
-## Recommendations
+
+
+  ![Palmoria 1](https://github.com/user-attachments/assets/a1605a61-d1b1-44b6-8a2c-3c55318de30a)
+
+
+
+  ![Palmoria 2](https://github.com/user-attachments/assets/1ca7e136-67d6-4384-998e-182dda816dac)
+
+
+
+### Recommendations
 
 - Gender gap should be adressed in high salary bands.
 - Ensure gender disclosure through transparent policies.
