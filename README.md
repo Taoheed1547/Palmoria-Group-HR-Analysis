@@ -2,10 +2,11 @@
 
  This project providers a comprehensive analysis on Palmoria Employees built in PowerBI. It focuses on key metrics such as employee distribution by gender, department, salary band, location and performance rating.
 
-## Project Overview
+### Project Overview
 
 The Dashboard offers insights into: 
-Total employees, gender balance, and undisclosed entries.
+
+- Total employees, gender balance, and undisclosed entries.
 
 - Employee distribution by department, location and salary.
 
@@ -18,7 +19,26 @@ Total employees, gender balance, and undisclosed entries.
 ### Data Source
 
 
-## Key KPIs
+The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a capstone project
+
+### Tools Used
+
+
+- Power Query (For Data cleaning and transformation)
+- PowerBI (For Calculations and Dashboard Creation)
+
+
+### Data Cleaning and Preparation
+
+
+- Data loading and Inspection
+- Data Formatting (Data Types)
+- Handling null values
+- Duplicates Removal
+- Merging Queries
+
+### Key KPIs
+
 
 - Total Employees: 874
 
@@ -31,7 +51,7 @@ Total employees, gender balance, and undisclosed entries.
 - Departments: 12
 
 
-## Observations
+### Observations
 
 - Gender distribution is nearly balanced with 4.4% employees that do not disclosed their gender.
 - Salary distribution favours male employees in higher bands.
