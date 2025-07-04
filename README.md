@@ -1,8 +1,10 @@
 # HR Analytics Dashboard
 
+### Project Overview
+ 
  This project providers a comprehensive analysis on Palmoria Employees built in PowerBI. It focuses on key metrics such as employee distribution by gender, department, salary band, location and performance rating.
 
-### Project Overview
+### Exploratory Data Analysis
 
 The Dashboard offers insights into: 
 
@@ -18,18 +20,15 @@ The Dashboard offers insights into:
 
 ### Data Source
 
-
 The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a capstone project
 
 ### Tools Used
-
 
 - Power Query (For Data cleaning and transformation)
 - PowerBI (For Calculations and Dashboard Creation)
 
 
 ### Data Cleaning and Preparation
-
 
 - Data loading and Inspection
 - Data Formatting (Data Types)
@@ -61,13 +60,7 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 - Departments like Legal, Support and Product Mangement had the highest number of male employees.
 
 
-
-  ![Palmoria 1](https://github.com/user-attachments/assets/a1605a61-d1b1-44b6-8a2c-3c55318de30a)
-
-
-
-  ![Palmoria 2](https://github.com/user-attachments/assets/1ca7e136-67d6-4384-998e-182dda816dac)
-
+[Palmoria Group HR Dashboard.pdf](https://github.com/user-attachments/files/21067643/Palmoria.Group.HR.Dashboard.pdf)
 
 
 ### Recommendations
