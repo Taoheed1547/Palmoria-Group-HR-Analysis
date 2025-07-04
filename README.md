@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+## HR Analytics Dashboard
 
 ### Project Overview
  
@@ -74,5 +74,7 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 
 Attached is the csv file of the dataset and the pbix file for better interactivity.
 
+[Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21068593/Palmoria.Group.emp-data.csv)
 
+[Palmoria Group Bonus Rules.csv](https://github.com/user-attachments/files/21068591/Palmoria.Group.Bonus.Rules.csv)
 
