@@ -72,7 +72,7 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 
 ### Dataset and Dashboard
 
-Attached is the csv file for the dataset and the PowerBI dashboard for better interactivity.
+Attached is the csv file of the dataset and the pbix file for better interactivity.
 
 
 
