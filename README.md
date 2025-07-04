@@ -33,8 +33,9 @@ The dataset was provided by the Digital Skill Africa (The Incubator Hub) as a ca
 
 - Data loading and Inspection
 - Data Formatting (Data Types)
-- Handling null values
+- Handling missing values
 - Duplicates Removal
+- Unpivoting columns
 - Merging Queries
 
 ### Key KPIs
